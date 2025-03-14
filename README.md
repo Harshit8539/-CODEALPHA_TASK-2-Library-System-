@@ -55,7 +55,7 @@ The E-Library System is a software application designed to emulate the functiona
 ##### Following Details are Mandatory.
 
 
-  #### 3. RETURN BOOK----------------------------------------------------------------------------------------------------------------------------------------
+  #### 3. RETURN BOOK-----------------------------------------------------------------------------------------------------------------------------------------
   Click on **RETURN BUTTON** on homepage.
    ###### In this page, Admin use **Search Button**🔍 to check that book is issued or not, Admin Check the Due date if Student     Return under the Due date then :
   Admin click on **Return Button:** to return the book, It Updated on Database[YES] and in the section of return details {Statistics Page}.
