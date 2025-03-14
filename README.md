@@ -36,7 +36,7 @@ The E-Library System is a software application designed to emulate the functiona
 
 - **BOOK MANAGEMENT :**
      
-  #### 1. ADD NEW BOOK ------------------------------------------------------------------------------------------------------------
+  #### 1. ADD NEW BOOK --------------------------------------------------------------------------------------------------
      
           Book ID{primary key}, Book Name, Publisher/Author, Price, Publish Year -
 
@@ -46,7 +46,7 @@ The E-Library System is a software application designed to emulate the functiona
     ![App Screenshot](https://github.com/Harshit8539/-CODEALPHA_TASK-2-Library-System-/blob/main/4%20%20Book%20Page.png?raw=true)
     ##### Following Details are Mandatory.
 
-  #### 2. BORROW BOOK-------------------------------------------------------------------------------------------------------------
+  #### 2. BORROW BOOK----------------------------------------------------------------------------------------------------
 
         Book ID, Student ID, Issue Date, Due Date(Return Date).
      Admin Click on **Issue Button** to issue the Book to the student.
@@ -55,7 +55,7 @@ The E-Library System is a software application designed to emulate the functiona
 ##### Following Details are Mandatory.
 
 
-  #### 3. RETURN----------------------------------------------------------------------------------------------------------------------
+  #### 3. RETURN BOOK-----------------------------------------------------------------------------------------------------
   Click on **RETURN BUTTON** on homepage.
    ###### In this page, Admin use **Search Button**🔍 to check that book is issued or not, Admin Check the Due date if Student     Return under the Due date then :
   Admin click on **Return Button:** to return the book, It Updated on Database[YES] and in the section of return details {Statistics Page}.
