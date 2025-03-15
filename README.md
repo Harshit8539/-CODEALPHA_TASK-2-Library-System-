@@ -16,7 +16,7 @@ The E-Library System is a software application designed to emulate the functiona
 
 - **HOMEPAGE :**
     
-   #### Homepage Provides to
+   #### Homepage has features to
     
       Add new student, Add new book, Statistics[ Show issue & return details], Borrowing and Returning,Logout.
     features are there.
